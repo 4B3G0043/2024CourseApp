@@ -18,3 +18,8 @@ enum class ClassName {
 	_4A,
 	_4B,
 };
+
+class Utility {
+public:
+	static string to(Department department);
+};
