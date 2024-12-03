@@ -24,4 +24,4 @@ class Utility {
 public:
 	static string toString(Department department);
 	static string toString(ClassName className);
-}; #pragma once
+};
