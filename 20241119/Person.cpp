@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-// Constructor
+// Constructor, 建構子, 建構函數
 //Person::Person(const string& id, const string& lastName, const string& firstName, const string& gender, const string& birthDate)
 //{
 //	this->id = id;
